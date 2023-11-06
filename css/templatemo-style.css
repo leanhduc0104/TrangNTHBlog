@@ -35,7 +35,7 @@ body {
 }
 body {
   font: 16px/1.6 'Raleway', Arial, Helvetica, sans-serif;
-  color: #fff;
+  color: #322f2f;
   text-align:center;
   background: #222;
 }
@@ -65,7 +65,7 @@ html {
   transition: all 0.4s ease;
 }
 a {
-  color: #fff;
+  color: #393535;
   text-decoration: none;
 }
 a:hover,
@@ -327,7 +327,7 @@ a#logo {
   margin-left: 30px;
 }
 .navbar-nav li a {
-  color:#fff;
+  color:#333131;
   font-size: 15px;
   text-decoration:none;
   display:block;
@@ -489,7 +489,7 @@ a#logo {
   text-transform:capitalize;
   font-size:14px;
   padding: 30px 0px;
-  background: rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.15);
 }
 .counter-box span {
   font-size: 26px;
